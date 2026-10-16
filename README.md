@@ -15,7 +15,6 @@ NextSale находит в существующей клиентской баз�
 | User Stories | [nextsale-03-User-Stories.pdf](nextsale-03-User-Stories.pdf) |
 | RTM | [nextsale-04-RTM.pdf](nextsale-04-RTM.pdf) |
 | Сценарий демонстрации | [docs/demo-script.md](docs/demo-script.md) |
-| Текст для слайда | [docs/slide.md](docs/slide.md) |
 
 ## Запуск
 
