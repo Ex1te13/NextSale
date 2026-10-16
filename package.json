@@ -1,0 +1,13 @@
+{
+  "name": "nextsale-mvp",
+  "version": "0.1.0",
+  "description": "NextSale — AI-агент повторных продаж для автосервисов (MVP)",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node --test tests/*.test.js",
+    "build:demo": "node scripts/build-demo-data.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
